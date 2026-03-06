@@ -29,6 +29,9 @@
   },
   "name":"Game_Jam_GAMENAME",
   "resources":[
+    {"id":{"name":"outside","path":"rooms/outside/outside.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Inside","path":"rooms/Inside/Inside.yy",},},
     {"id":{"name":"Outside","path":"rooms/Outside/Outside.yy",},},
@@ -43,6 +46,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"outside","path":"rooms/outside/outside.yy",},},
     {"roomId":{"name":"Outside","path":"rooms/Outside/Outside.yy",},},
     {"roomId":{"name":"Inside","path":"rooms/Inside/Inside.yy",},},
   ],
