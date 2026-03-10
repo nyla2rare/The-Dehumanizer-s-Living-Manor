@@ -49,7 +49,10 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"roomId":{"name":"outside","path":"rooms/outside/outside.yy",},},
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     {"roomId":{"name":"Inside","path":"rooms/Inside/Inside.yy",},},
