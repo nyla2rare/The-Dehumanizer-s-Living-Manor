@@ -31,7 +31,6 @@
   "resources":[
     {"id":{"name":"inside","path":"rooms/inside/inside.yy",},},
     {"id":{"name":"outside","path":"rooms/outside/outside.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
   ],
